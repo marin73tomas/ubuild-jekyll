@@ -9,6 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Ubuild
+  - link: "/home-test"
+    link_text: Home Test
   - link: "#swap"
     link_text: Swap
   - link: "#customize"
