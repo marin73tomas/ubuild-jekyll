@@ -25,5 +25,9 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+menu:
+  main:
+    weight: 2
+    title: Home - Test
 
 ---

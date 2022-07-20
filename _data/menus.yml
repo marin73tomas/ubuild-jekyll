@@ -1,8 +1,5 @@
 ---
 main:
-- weight: 2
-  url: "/home-test"
-  title: Home - Test
 - identifier: home
   url: "/"
   weight: 1
